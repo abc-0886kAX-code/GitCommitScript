@@ -1,0 +1,20 @@
+{
+  "name": "gitcommitscript",
+  "version": "1.0.0",
+  "description": "1. 修改 file.txt 文件内容\r 2. 提交到 github 上",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abc-0886kAX-code/GitCommitScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abc-0886kAX-code/GitCommitScript/issues"
+  },
+  "homepage": "https://github.com/abc-0886kAX-code/GitCommitScript#readme"
+}
